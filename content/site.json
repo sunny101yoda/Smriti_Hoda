@@ -10,8 +10,8 @@
   "footer_text": "Last updated:",
   "attribution": {
     "prefix": "Adapted from",
-    "source_label": "Shoda_GIT/academic-website-template",
-    "source_url": "https://github.com/sunny101yoda/Smriti_Hoda.git"
+    "source_label": "mraoaakash/academic-website-template",
+    "source_url": "https://github.com/mraoaakash/academic-website-template"
   },
   "navigation": [
     { "label": "Home", "path": "index.html" },
