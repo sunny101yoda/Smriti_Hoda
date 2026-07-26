@@ -40,6 +40,7 @@
     { "label": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=QAlyTk4AAAAJ", "icon": "fa-brands fa-google-scholar" },
     { "label": "LinkedIn", "url": "https://www.linkedin.com/in/smriti-hoda-ph-d-34074566/", "icon": "fa-brands fa-linkedin" },
     { "label": "GitHub", "url": "https://github.com/sunny101yoda/Smriti_Hoda.git", "icon": "fa-brands fa-square-github" },
-    { "label": "ORCID", "url": "https://orcid.org/0000-0002-3567-6938", "icon": "fa-brands fa-orcid" }
+    { "label": "ORCID", "url": "https://orcid.org/0000-0002-3567-6938", "icon": "fa-brands fa-orcid" },
+    { "label": "careerlauncher", "url": "https://careerlauncher.ai/p/smritihoda", "icon": "fa-brands fa-wand-magic-sparkles" }
   ]
 }
