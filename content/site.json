@@ -31,10 +31,18 @@
   "profile_image_alt": "Smriti Hoda profile photo placeholder",
   "bio_html": "Scientist with a passion for AI innovation, committed to designing DOE experiments, clarifying MOA, and validating methods. Skilled in functional genomics, gene editing, data analysis, potency assay development, and in vitro / in vivo preclinical study design. Recognized for collaboration and meticulous creativity to ensure the delivery of high-quality medical products to patients.",
   "contact": [
-    { "label": "Google Calendar", "url": "https://calendar.app.google/vWixDzHicBwRndXX7", "icon": "fa-duotone fa-light fa-calendar-days" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/smriti-hoda-ph-d-34074566/", "icon": "fa-brands fa-linkedin" },
-    "shodascholar [at] gmail [dot] com",
-    "Somerville, USA"
+    {
+    "label": "Google Calendar",
+    "url": "https://calendar.app.google/vWixDzHicBwRndXX7",
+    "icon": "fa-solid fa-calendar-days"
+  },
+  {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/smriti-hoda-ph-d-34074566/",
+    "icon": "fa-brands fa-linkedin"
+  },
+  "shodascholar [at] gmail [dot] com",
+  "Somerville, USA"
   ],
   "social_links": [
     { "label": "University profile", "url": "https://www.researchgate.net/profile/Smriti-Hoda", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
